@@ -12,11 +12,17 @@ Before getting started with this repo, please read:
 > 在开始使用此存储库之前，请阅读：
 
 * The [Compound Whitepaper](https://compound.finance/documents/Compound.Whitepaper.pdf), describing how Compound works
+> Compound 白皮书，描述了Compound协议如何工作。
 * The [Compound Protocol Specification](https://github.com/compound-finance/compound-protocol/tree/master/docs/CompoundProtocol.pdf), explaining in plain English how the protocol operates
+> 简单的解释协议是如何运作的
 
 For questions about interacting with Compound, please visit [our Discord server](https://compound.finance/discord).
 
+> 对于与Compound进行交互的问题，请访问[我们的Discord服务器](https://compound.finance/discord)。
+
 For security concerns, please visit [https://compound.finance/security](https://compound.finance/security) or email [security@compound.finance](mailto:security@compound.finance).
+
+> 对于安全问题，请访问 [https://compound.finance/security](https://compound.finance/security) 或发送邮件至[security@compound.finance](mailto:security@compound.finance)。
 
 Contributing
 ============
