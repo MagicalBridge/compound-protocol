@@ -5,7 +5,7 @@ Compound Protocol
 
 The Compound Protocol is an Ethereum smart contract for supplying or borrowing assets. Through the cToken contracts, accounts on the blockchain *supply* capital (Ether or ERC-20 tokens) to receive cTokens or *borrow* assets from the protocol (holding other assets as collateral). The Compound cToken contracts track these balances and algorithmically set interest rates for borrowers.
 
-> Compound协议是一个以太坊智能合约，支持对资产进行抵押借贷。通过`CToken`合约，在区块链上的用户可以 提供资本 (ETH或ERC-20代币) 来获取cTokens或借出资产给协议 (持有其他抵押品)。Compound的CToken合约跟踪这些余额并为借贷者动态设置利息率。
+> Compound协议是一个以太坊智能合约，它支持对资产进行抵押借贷。通过`CToken`合约，在区块链上的用户可以给Compound协议提供资产 (ETH或ERC-20代币) 来获取cTokens，或者用户从协议中借出资产 (持有其他资产作为抵押品)。Compound协议中的CToken合约会跟踪这些资产的余额并为借贷者动态设置利息率。
 
 
 Before getting started with this repo, please read:
